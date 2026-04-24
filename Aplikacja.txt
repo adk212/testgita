@@ -16,3 +16,7 @@ public void logowanieMicrosoft() {
 public void przypomnihaslot() {
         System.out.println("Kliknij aby przypomnieć haslo");
     }
+        }
+    public void przypomnihaslot() {
+            System.out.println("Kliknij aby przypomnieć haslo");
+        }
